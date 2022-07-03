@@ -4,23 +4,23 @@ Boost up in game performance on high energy consuming games.
 
 <em><strong>ACTIVATING PERFORMANCE MODE:</strong></em>
 1) - Make sure you have Steam.app in your applications folder.
-2) - (For first launch) control/right click to "Steam_Boost_Performance.app".
+2) - (For first launch) control/(or)right click to "Steam_Boost_Performance.app".
 3) - Select "Open".
 4) - Select "Open" again.
   
 <em><strong>RESTORING:</strong></em>
 1) - Make sure you have Steam.app in your applications folder.
-2) - (For first launch) control/right click to "Steam_Restore.app".
+2) - (For first launch) control/(or)right click to "Steam_Restore.app".
 3) - Select "Open".
 4) - Select "Open" again.
 
 
 <em><strong>What is unsigned app and what it means?:</strong></em>  
 Unsigned applications does not belong to any "Apple Developer" account.  
-This unsigned app's have benefits over signed apps.  
+Unsigned apps have benefits over signed apps.  
 Explaining in basic; 
-Signed app's belongs to developer.  
-Unsigned app's belongs to user who have them.  
+Signed apps belongs to developer.  
+Unsigned apps belongs to user who have them.  
 
 <em><strong>Any TroubleShooting:</strong></em>    
 https://support.apple.com/en-us/HT202491 
@@ -37,8 +37,8 @@ Click the green "Code" button and select "Download ZIP".
 Extract ".zip" file, open one of them, than click run.  
 
 -----
-Sometimes Restoring back your steam makes steam store lagging or bugged.  
+Sometimes restoring back your steam makes steam's store lagging or bugged.  
 
-On this situation you need to restart your steam by closing(complately) and reopen.  
+On this situation, you need to restart your steam app.  
 
 -----
